@@ -1,0 +1,11 @@
+/home/makar/RiderProjects/Command/Command/bin/Debug/netcoreapp2.2/Command.deps.json
+/home/makar/RiderProjects/Command/Command/bin/Debug/netcoreapp2.2/Command.runtimeconfig.json
+/home/makar/RiderProjects/Command/Command/bin/Debug/netcoreapp2.2/Command.runtimeconfig.dev.json
+/home/makar/RiderProjects/Command/Command/bin/Debug/netcoreapp2.2/Command.dll
+/home/makar/RiderProjects/Command/Command/bin/Debug/netcoreapp2.2/Command.pdb
+/home/makar/RiderProjects/Command/Command/obj/Debug/netcoreapp2.2/Command.csprojAssemblyReference.cache
+/home/makar/RiderProjects/Command/Command/obj/Debug/netcoreapp2.2/Command.csproj.CoreCompileInputs.cache
+/home/makar/RiderProjects/Command/Command/obj/Debug/netcoreapp2.2/Command.AssemblyInfoInputs.cache
+/home/makar/RiderProjects/Command/Command/obj/Debug/netcoreapp2.2/Command.AssemblyInfo.cs
+/home/makar/RiderProjects/Command/Command/obj/Debug/netcoreapp2.2/Command.dll
+/home/makar/RiderProjects/Command/Command/obj/Debug/netcoreapp2.2/Command.pdb
